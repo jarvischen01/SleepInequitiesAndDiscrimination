@@ -30,6 +30,6 @@ Affiliations:
 
 The Supplemental Materials consist of:
 
-Appendix A: Technical description of the measures employed
-Appendix B: Supplemental tables
-Appendix C: Reflections on our project being included among "Science Under Attack/Dsrupted Science"
+* Appendix A: Technical description of the measures employed
+* Appendix B: Supplemental tables
+* Appendix C: Reflections on our project being included among "Science Under Attack/Dsrupted Science"
