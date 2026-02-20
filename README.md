@@ -5,7 +5,7 @@ This repository contains Supplemental Materials related to the paper,
 **Patterns of sleep inequities by experiences and recognition of multiple types of discrimination among members of three urban community health centers: the Life + Health Study (2020-2022)**
 
 Authors:
-Jarvis T. Chen, ScD,1 Nykesha Johnson, MPH,1 Sari L. Reisner, ScD,2-4 Maddalena Marini, PhD,5 Merrily E. LeBlanc, MA,4,6 Margaret M. Matthews, MPH,1 Kenneth H. Mayer, MD,4,7 Apriani Oendari, MD,8 Guale Valdez, MBA,9 Tanveer Khan, MD,10 Donna Bright, PhD, MSPH,8 Nancy Krieger, PhD1
+Jarvis T. Chen, ScD,1 Nykesha Johnson, MPH,1 Sari L. Reisner, ScD,2-4 Maddalena Marini, PhD,5 Merrily E. LeBlanc, MA,4,6 Margaret M. Matthews, MPH,1 Kenneth H. Mayer, MD,4,7 Apriani Oendari, MD,8 Guale Valdez, MBA,9 Tanveer Khan, MD,10 Donna M. Bright, PhD, MSPH,8 Nancy Krieger, PhD1
 Affiliations:
 
 1 Department of Social and Behavioral Sciences, Harvard T.H. Chan School of Public Health, Boston, MA, USA
